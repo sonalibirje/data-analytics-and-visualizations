@@ -1,1 +1,13 @@
 
+pandas
+numpy
+matplotlib
+plotly
+requests
+yfinance
+vaderSentiment
+psycopg2
+pymongo
+airflow
+nltk
+spacy
